@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<eventposdef>
+
+<!-- Air Field Maddness addons -->
+
+<!-- for testing spawn points -->
+	
+	<event name="StaticTower">
+		<pos x="5265.0" z="10110.0" a="0.000000" />
+	</event>
+	<event name="ItemGuardTest">
+		<pos x="5253.000000" z="10093.000000" a="180.000000" />
+		<pos x="5196.000000" z="9579.000000" a="180.000000" />
+		<pos x="4796.000000" z="10940.000000" a="180.000000" />
+		<pos x="3947.000000" z="11956.000000" a="180.000000" />
+	</event>
+	<event name="ItemSeaChestTest">
+		<pos x="5280.000000" z="10091.739990" a="-163.085007" />
+		<pos x="3919.000000" z="11458.739990" a="-163.085007" />
+		<pos x="3763.000000" z="10760.739990" a="-163.085007" />
+		<pos x="4969.000000" z="9336.739990" a="-163.085007" />
+	</event>	
+<!-- end for testing spawn points -->
+
+<!-- Zombie Fred -->
+
+<event name="ItemZombieFred">
+	<pos x="3850.21" z="11482.17" a="-1" />
+</event>
+
+<!-- Starting Gear -->
+<event name="ItemGuard1">
+		<pos x="4177.41" z="10579.17" a="0.000000" />
+</event>
+<event name="ItemGuard2">
+		<pos x="4318.500977" z="10202.754639" a="0.000000" />
+</event>
+<event name="ItemGuard3">
+		<pos x="4525.193359" z="9614.826172" a="0.000000" />
+</event>
+<event name="ItemGuard4">
+		<pos x="5263.572266" z="9861.541016" a="0.000000" />
+</event>
+<event name="ItemGuard5">
+		<pos x="4846.815430" z="10337.969482" a="0.000000" />
+</event>
+<event name="ItemGuard6">
+		<pos x="4706.704102" z="10590.812500" a="0.000000" />
+</event>
+<event name="ItemGuard7">
+		<pos x="4557.045898" z="10706.953857" a="0.000000" />
+</event>
+<event name="ItemGuard8">
+		<pos x="4409.400391" z="10936.733398" a="0.000000" />
+</event>
+<event name="ItemGuard9">
+		<pos x="4220.398438" z="11091.593018" a="0.000000" />
+</event>
+<event name="ItemGuard10">
+		<pos x="4780.66" z="10395.91" a="0.000000" />
+</event>
+<!-- End Starting Gear -->
+
+<!-- crash site -->
+<event name="StaticHeliCrash">
+	<zone smin="1" smax="1" dmin="1" dmax="1" r="45" />
+	<pos x="4170.0" z="10990.0" a="336.442993" />
+	<pos x="4154.0" z="11028.0" a="336.442993" />
+</event>
+
+<!-- sea chest -->
+	<event name="ItemSeaChest1">
+		<pos x="4048.700195" z="11621.580078" a="-160.071014" />
+	</event>	
+	<event name="ItemSeaChest2">
+		<pos x="4328.500000" z="10867.100098" a="0.000000" />
+	</event>
+	<event name="ItemSeaChest3">
+		<pos x="4464.200195" z="10664.300049" a="54.429104" />
+	</event>
+	<event name="ItemSeaChest4">
+		<pos x="4450.799805" z="10132.820068" a="-4.281280" />
+	</event>
+	<event name="ItemSeaChest5">
+		<pos x="4752.500000" z="10127.679932" a="117.453011" />
+	</event>
+	<event name="ItemSeaChest6">
+		<pos x="4596.400391" z="9768.500000" a="164.600998" />
+	</event>
+	<event name="ItemSeaChest7">
+		<pos x="5169.000000" z="9748.739990" a="-163.085007" />
+	</event>
+	<event name="ItemSeaChest8">
+		<pos x="4199.500000" z="11106.679932" a="117.453011" />
+	</event>
+	<event name="ItemSeaChest9">
+		<pos x="4155.400391" z="10646.500000" a="164.600998" />
+	</event>
+	<event name="ItemSeaChest10">
+		<pos x="4260.000000" z="10466.739990" a="-163.085007" />
+	</event>	
+<!-- end sea chest -->
+
+	<event name="VehicleOffroadHatchback"> 
+		<pos x="4595.45" z="11030.28" a="30.000000" />
+		<pos x="4580.87" z="10910.70" a="30.000000" />
+	</event>
+    <event name="Loot" />
+
+	<event name="StaticBuildingGov">
+        <pos x="4319.865234" z="10299.042969" a="335" /> <!--Municipal-->
+	</event>
+	<event name="StaticBuildingGov2">
+        <pos x="4313.52" z="10685.14" a="60" /> <!--Municipal2-->
+	</event>
+	<event name="StaticBuildingATC2">
+        <pos x="4928.395020" z="9745.483398" a="345" /> <!--ATC2-->
+	</event>
+		<event name="StaticBuildingConst">
+        <pos x="4707.991699" z="10212.392578" a="325" /> <!--Construction-->
+    </event> 
+	<event name="StaticBuildingClock"> 
+        <pos x="4569.69" z="10050.28" a="150" /> <!--Clock-->
+    </event>
+	<event name="ItemBattery1">
+        <pos x="4639.69" z="10471.26" a="150" /> <!--Battery-->
+	</event>
+
+<!-- Graves -->
+
+	<event name="Static_Dead_MassGrave1">
+		<pos x="4120.520508" z="10818.796875" a="160.894226" />
+	</event>	
+	<event name="Static_Dead_MassGrave2">
+		<pos x="4421.520508" z="10692.796875" a="160.894226" />
+	</event>
+	<event name="Static_Dead_MassGrave3">
+		<pos x="4325.520508" z="10467.796875" a="160.894226" />
+	</event>
+	<event name="Static_Dead_MassGrave4">
+		<pos x="4652.520508" z="10277.796875" a="160.894226" />
+	</event>
+	<event name="Static_Dead_MassGrave5">
+		<pos x="4757.520508" z="9709.796875" a="160.894226" />
+	</event>
+	<event name="Static_Dead_MassGrave6">
+		<pos x="4068.520508" z="11773.796875" a="160.894226" />
+	</event>
+	<event name="Static_Dead_MassGrave7">
+		<pos x="4766.520508" z="10652.796875" a="160.894226" />
+	</event>
+	<event name="Static_Dead_MassGrave8">
+		<pos x="4370.520508" z="10903.796875" a="160.894226" />
+	</event>
+	<event name="Static_Dead_MassGrave9">
+		<pos x="4625.520508" z="9587.796875" a="160.894226" />
+	</event>	
+<!-- end Graves -->
+
+<!-- end Air Field Maddness addons -->
+
+
+</eventposdef>

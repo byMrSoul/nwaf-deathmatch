@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<messages>
+    <message>
+        <deadline>150</deadline>
+        <shutdown>1</shutdown>
+        <text>Aggro NWAF Deathmatch will restart and wipe in #tmin minutes.</text>
+    </message>
+	
+    <message>
+        <repeat>15</repeat>
+        <text>Welcome To Aggro NWAF Deathmatch server. discord.gg/N2mbTvgquj</text>
+    </message>
+	
+    <message>
+        <delay>10</delay>
+        <repeat>50</repeat>
+        <onconnect>1</onconnect>
+        <text>Server restarts every 2.5 hours. discord.gg/N2mbTvgquj</text>
+    </message>    
+
+    <message>
+    	<delay>10</delay>
+        <repeat>15</repeat>
+        <text>Killfeed in discord discord.gg/N2mbTvgquj</text>
+    </message>
+</messages>
